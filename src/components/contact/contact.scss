@@ -54,7 +54,19 @@
         position: absolute;
         margin: auto;
         z-index: -1;
+
+        @include desktop {
+            width: 450px;
+            height: 450px;
+        }
+        
+        @include mobile {
+            width: 300px;
+            height: 300px;
+        }
+
        }
+
        form {
         display: flex;
         flex-direction: column;
