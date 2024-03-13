@@ -43,6 +43,7 @@
          }
          
          .buttons {
+            display: flex;
             z-index: 2000;
             a {
                 padding: 20px;
