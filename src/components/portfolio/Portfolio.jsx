@@ -1,27 +1,27 @@
 import './portfolio.scss';
 import { motion, useScroll, useSpring, useTransform } from 'framer-motion';
 import { useRef } from 'react';
-import project1 from '../../img/project1.png';
-import project2 from '../../img/project2.png';
-import project3 from '../../img/project3.png';
-import project4 from '../../img/project4.png';
-import project5 from '../../img/project5.png';
-import project6 from '../../img/project6.png';
-import project7 from '../../img/project7.png';
-import project8 from '../../img/project8.png';
-import project9 from '../../img/project9.png';
-import project10 from '../../img/project10.png';
-import project11 from '../../img/project11.png';
-import project12 from '../../img/project12.png';
-import project13 from '../../img/project13.png';
-import project14 from '../../img/project14.png';
-import project15 from '../../img/project15.png';
-import project16 from '../../img/project16.png';
-import project17 from '../../img/project17.png';
-import project18 from '../../img/project18.png';
-import project19 from '../../img/project19.png';
-import project20 from '../../img/project20.png';
-import project21 from '../../img/project21.png';
+import project1 from '../../img/project1.webp';
+import project2 from '../../img/project2.webp';
+import project3 from '../../img/project3.webp';
+import project4 from '../../img/project4.webp';
+import project5 from '../../img/project5.webp';
+import project6 from '../../img/project6.webp';
+import project7 from '../../img/project7.webp';
+import project8 from '../../img/project8.webp';
+import project9 from '../../img/project9.webp';
+import project10 from '../../img/project10.webp';
+import project11 from '../../img/project11.webp';
+import project12 from '../../img/project12.webp';
+import project13 from '../../img/project13.webp';
+import project14 from '../../img/project14.webp';
+import project15 from '../../img/project15.webp';
+import project16 from '../../img/project16.webp';
+import project17 from '../../img/project17.webp';
+import project18 from '../../img/project18.webp';
+import project19 from '../../img/project19.webp';
+import project20 from '../../img/project20.webp';
+import project21 from '../../img/project21.webp';
 
 const items = [
     {
