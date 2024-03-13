@@ -94,7 +94,8 @@
                     }
                 }
 
-                a {
+                a { position: relative;
+                    z-index: 500;
                     display: flex;
                     justify-content: center;
                     align-items: center;
