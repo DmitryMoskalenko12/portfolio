@@ -21,6 +21,7 @@ import project17 from '../../img/project17.png';
 import project18 from '../../img/project18.png';
 import project19 from '../../img/project19.png';
 import project20 from '../../img/project20.png';
+import project21 from '../../img/project21.png';
 
 const items = [
     {
@@ -166,7 +167,13 @@ const items = [
         img: {test : project20},
         descr: 'HTML5, CSS, SCSS, JavaScript.This is a very old project.'
     },
-
+    {
+        id: 21,
+        title: 'Catalogium',
+        link:'https://catalogium.com/',
+        img: {test : project21},
+        descr: 'One of the projects developed in the team. My task was to develop the visual part, layout, adaptation, and write code for some functionality.'
+    },
 
 ]
 
