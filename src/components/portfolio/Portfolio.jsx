@@ -72,14 +72,14 @@ const items = [
         title: 'Test Task',
         link:'https://test-project2-tan.vercel.app/',
         img: {test : project7},
-        descr: 'Next.js, Mongodb, Swiper, Classnames'
+        descr: 'Used in development: Next.js, Mongodb, Swiper, Classnames'
     },
     {
         id: 8,
         title: 'Pizza-shop',
         link:'https://pizza-pink-eight.vercel.app/',
         img: {test : project8},
-        descr: 'Next.js, Mongodb, Swiper, Classnames, Redux-Toolkit, React-input-mask, React-transition-group, Formik, Yup, Next-auth, Bcrypt.js'
+        descr: 'Used in development: Next.js, Mongodb, Swiper, Classnames, Redux-Toolkit, React-input-mask, React-transition-group, Formik, Yup, Next-auth, Bcrypt.js'
     },
 
     {
@@ -87,7 +87,7 @@ const items = [
         title: 'Wiz-apple',
         link:'https://test-task-wiz.vercel.app/',
         img: {test : project9},
-        descr: 'Next.js, Swiper, Classnames, Redux-Toolkit, i18next, Next-118next, TypeScript, Concurrently'
+        descr: 'Used in development: Next.js, Swiper, Classnames, Redux-Toolkit, i18next, Next-118next, TypeScript, Concurrently'
     },
 
     {
@@ -95,77 +95,77 @@ const items = [
         title: 'Web-dev',
         link:'https://dmitrymoskalenko12.github.io/web-dev-result/',
         img: {test : project10},
-        descr: 'JavaScript, HTML5, CSS, Webpack, Swiper.js'
+        descr: 'Used in development: JavaScript, HTML5, CSS, Webpack, Swiper.js'
     },
     {
         id: 11,
         title: 'Tic-Tac-Toe',
         link:'https://tic-tac-toe-rouge-one.vercel.app/',
         img: {test : project11},
-        descr: 'React.js, Vite'
+        descr: 'Used in development: React.js, Vite'
     },
     {
         id: 12,
         title: 'Shop-presto',
         link:'https://test-presto.vercel.app/',
         img: {test : project12},
-        descr: 'React.js, Email.js, Redux-Toolkit, Formik, React-helmet, React-input-mask, React-paginate, React-router-dom, TypeScript, Yup, Tailwind, Prettier'
+        descr: 'Used in development: React.js, Email.js, Redux-Toolkit, Formik, React-helmet, React-input-mask, React-paginate, React-router-dom, TypeScript, Yup, Tailwind, Prettier'
     },
     {
         id: 13,
         title: 'Affnetix',
         link:'https://dmitrymoskalenko12.github.io/Affnetix/',
         img: {test : project13},
-        descr: 'JavaScript, HTML5, CSS, YouTubeAPI'
+        descr: 'Used in development: JavaScript, HTML5, CSS, YouTubeAPI'
     },
     {
         id: 14,
         title: 'Dashboard-test',
         link:'https://dashboard-sepia-three.vercel.app/',
         img: {test : project14},
-        descr: 'React.js'
+        descr: 'Used in development: React.js'
     },
     {
         id: 15,
         title: 'Happy Coaching',
         link:'https://dmitrymoskalenko12.github.io/test-happy/',
         img: {test : project15},
-        descr: 'HTML5, CSS, SCSS. It was a test task on layout, the task was to compose only 2 sections.'
+        descr: 'Used in development: HTML5, CSS, SCSS. It was a test task on layout, the task was to compose only 2 sections.'
     },
     {
         id: 16,
         title: 'VP-test-task',
         link:'https://vp-sepia.vercel.app/',
         img: {test : project16},
-        descr: 'React.js, Redux-Toolkit, TypeScript, Eslint(@wemake-services/eslint-config-javascript, @wemake-services/eslint-config-typescript)'
+        descr: 'Used in development: React.js, Redux-Toolkit, TypeScript, Eslint(@wemake-services/eslint-config-javascript, @wemake-services/eslint-config-typescript)'
     },
     {
         id: 17,
         title: 'Loan',
         link:'https://dmitrymoskalenko12.github.io/Loan-old-project/',
         img: {test : project17},
-        descr: 'HTML5, CSS, SCSS, JavaScript.This is a very old project. '
+        descr: 'Used in development: HTML5, CSS, SCSS, JavaScript.This is a very old project. '
     },
     {
         id: 18,
         title: 'Pulsometr',
         link:'https://dmitrymoskalenko12.github.io/pulsometr-old-project/',
         img: {test : project18},
-        descr: 'HTML5, CSS, SCSS, JavaScript.This is a very old project.'
+        descr: 'Used in development: HTML5, CSS, SCSS, JavaScript.This is a very old project.'
     },
     {
         id: 19,
         title: 'Picture',
         link:'https://dmitrymoskalenko12.github.io/picture-old-project/',
         img: {test : project19},
-        descr: 'HTML5, CSS, SCSS, JavaScript.This is a very old project.'
+        descr: 'Used in development: HTML5, CSS, SCSS, JavaScript.This is a very old project.'
     },
     {
         id: 20,
         title: 'Window-Project',
         link:'https://dmitrymoskalenko12.github.io/project-window-old/',
         img: {test : project20},
-        descr: 'HTML5, CSS, SCSS, JavaScript.This is a very old project.'
+        descr: 'Used in development: HTML5, CSS, SCSS, JavaScript.This is a very old project.'
     },
     {
         id: 21,
