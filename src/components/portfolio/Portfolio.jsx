@@ -99,7 +99,7 @@ const items = [
     {
         id: 11,
         title: 'Tic-Tac-Toe',
-        link:'tic-tac-toe-rouge-one.vercel.app',
+        link:'https://tic-tac-toe-rouge-one.vercel.app/',
         img: {test : project11},
         descr: 'React.js, Vite'
     },
@@ -134,7 +134,7 @@ const items = [
     {
         id: 16,
         title: 'VP-test-task',
-        link:'vp-sepia.vercel.app',
+        link:'https://vp-sepia.vercel.app/',
         img: {test : project16},
         descr: 'React.js, Redux-Toolkit, TypeScript, Eslint(@wemake-services/eslint-config-javascript, @wemake-services/eslint-config-typescript)'
     },
