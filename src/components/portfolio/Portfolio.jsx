@@ -22,6 +22,8 @@ import project18 from '../../img/project18.webp';
 import project19 from '../../img/project19.webp';
 import project20 from '../../img/project20.webp';
 import project21 from '../../img/project21.webp';
+import project22 from '../../img/project22.webp';
+
 
 const items = [
     {
@@ -173,6 +175,13 @@ const items = [
         link:'https://catalogium.com/',
         img: {test : project21},
         descr: 'One of the projects developed in the team. My task was to develop the visual part, layout, adaptation, and write code for some functionality.'
+    },
+    {
+        id: 22,
+        title: 'studiopresto-layout',
+        link:'https://dmitrymoskalenko12.github.io/studiopresto-layout/',
+        img: {test : project22},
+        descr: 'HTML, Scss, Webpack, Java Script were used in the development. The project was implemented for pixel perfect'
     },
 
 ]
